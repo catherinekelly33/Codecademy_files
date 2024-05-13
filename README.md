@@ -26,6 +26,14 @@ diameters.
 The use of pandas on multiple databases to determine the funneling rate from
 visiting a website to making a purchase.
 
+*U.S. Medical Insurance*
+An indepth analysis of factors affecting the cost of medical insurance using 
+Python and basic pandas.
+
+*Jeopardy*
+Data manipulation to investigate a dataset of Jeopardy questions and answers. 
+Creation of a game using this set of questions and answers.
+
 
 
 
