@@ -8,15 +8,32 @@ SQL and data science
 The projects undertaken are:
 
 *coded_correspondence*
-During this project I encode and decode various messages using a range of 
+During this project python is used to encode and decode various messages using a range of 
 cyphers.
 
-*Abruptly Goblins Planner*
-A gaming shop is trying to arrange a games night. The code determines the most
-suitable day based on players availabilty.
+*Airline Analysis*
+Univariate, bivariate and multivariate analysis of airline prices.
+
+*CLeaning US Census Data*
+Data cleaning and wrangling to prepare US census data for analysis.
+
+*NBA trends*
+Using comparison plots and statistics to analyse trends in NBA data.
+
+*Diagnosing Diabetes*
+Inspecting, cleaning and validating data on factors that contribute to diabetes.
+
+*Food Wheel*
+Data analysis of a food delivery service.
+
+*Product Defects*
+Use of the Poisson distribution to determine how many defects are expected over a given amount of time.
+
+*Roller Coaster*
+Data visualisation to analyse roller coasters.
 
 *Hurricane Analysis*
-An indepth analysis of hurricanes.
+Data about category 5 hurricanes are organised and manipulated through a series of functions
 
 *Reggie Linear Regression*
 Code to perform the linear regression on the bounce of balls with various 
@@ -33,6 +50,9 @@ Python and basic pandas.
 *Jeopardy*
 Data manipulation to investigate a dataset of Jeopardy questions and answers. 
 Creation of a game using this set of questions and answers.
+
+
+
 
 
 
